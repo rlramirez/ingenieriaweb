@@ -179,9 +179,19 @@ body.bodylogin{
 }
 
 
+@media only screen and (max-width: 450px) {
+	.wrapper h1{
+		color: red;
+	}
+}
 
 
 
+@media only screen and (max-width: 800px) {
+	.wrapper h1{
+		color: blue;
+	}
+}
 
 
 
